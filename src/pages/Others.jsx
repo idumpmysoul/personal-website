@@ -1,6 +1,5 @@
 import React from 'react'
-import Things from '../component-others/things'
-import Projects from '../component-work/Projects'
+import Things from '../component-others/Things'
 import Navi from '../component-home/Navi'
 import MobNavi from '../component-home/MobNavi'
 
