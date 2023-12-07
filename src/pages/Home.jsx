@@ -3,7 +3,7 @@ import Navi from '../component-home/Navi.jsx'
 import Hero from '../component-home/Hero.jsx'
 import Content from '../component-home/Content.jsx'
 import MobNavi from '../component-home/MobNavi.jsx'
-import Flash from '../component-home/flash.jsx'
+import Flash from '../component-home/Flash.jsx'
 import Footer from '../component-home/Footer.jsx'
 function Home() {
   return (
