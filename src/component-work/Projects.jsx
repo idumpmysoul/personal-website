@@ -4,9 +4,7 @@ import SyntaxHighlighter from 'react-syntax-highlighter';
 import { atomOneDark} from 'react-syntax-highlighter/dist/esm/styles/hljs';
 
 const Projects = () => {
-  const code1="
-  <h1></h1>
-  ";
+  const code1='';
 
   return (
 
