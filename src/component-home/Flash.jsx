@@ -6,8 +6,8 @@ function Flash() {
   return (
     <>
     <div className='container place-items-center min-h-full py-[10%] px-[10%] min-w-full'>
-        <h1 className='text-teal-300 bg-none font-semibold drop-shadow-2xl text-6xl'>Works and Projects</h1>
-        <button onClick={()=>navigate('/work')} className='mt-8 duration-500 hover:shadow-xl shadow-teal-300 hover:text-white hover:bg-teal-300 rounded-3xl text-2xl bg-none border-teal-300 border-[2px] w-[200px] h-[60px] text-teal-300'>Check it out </button>
+        <h1 className='text-white bg-none font-semibold drop-shadow-2xl text-6xl'>Works and Projects</h1>
+        <button onClick={()=>navigate('/work')} className='mt-8 duration-500 hover:text-black hover:bg-teal-300 rounded-3xl text-2xl bg-none border-white border-[2px] w-[200px] h-[60px] text-white'>Check it out </button>
     </div>
     </>
   )

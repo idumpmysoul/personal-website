@@ -11,10 +11,10 @@ function Home() {
     <div className='bg-slate-900 bg-[url("./assets/bg1.jpg")] bg-center bg-cover bg-no-repeat'>
         <div className='sticky w-full top-0 z-50'>
             <div className='relative sm:flex mobsm:hidden'>
-            <Navi/>
+                <Navi/>
             </div>
             <div className='relative mobsm:flex sm:hidden'>
-            <MobNavi/>
+                <MobNavi/>
             </div>
         </div>
         <div className='container min-h-fit min-w-full'>
@@ -25,7 +25,7 @@ function Home() {
             </div>
             <Content/>
         </div>
-        <div className='min-h-[400px] bg-slate-950/30 max-h-fit min-w-full'>
+        <div className='min-h-[400px] bg-[url("./assets/bg2.jpg")] bg-center bg-blend-darken bg-slate-900/70 bg-cover bg-no-repeat max-h-fit min-w-full'>
             <Flash/>
         </div>
     </div>

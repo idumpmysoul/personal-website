@@ -41,7 +41,7 @@ function DropDown() {
                 </div>
                 <div className='flex-1 flox-row fixed backdrop-blur-md items-center self-center bg-slate-500 mobsm:right-0 mobsm:top-[100%] -z-50 h-fit w-screen duration-500'>
                     <ul className='mt-[2%] mb-[3%] flex-1 flex-row text-center duration-300'>
-                        <li onClick={()=>navigate('/home')}  className='hover:scale-125 cursor-pointer w-full duration-500 hover:shadow-xl list-none inline-block px-3'><a className='text-white text-xl sm:px-3 xl:px-10'>Home</a></li>
+                        <li onClick={()=>navigate('/')}  className='hover:scale-125 cursor-pointer w-full duration-500 hover:shadow-xl list-none inline-block px-3'><a className='text-white text-xl sm:px-3 xl:px-10'>Home</a></li>
                         <li onClick={()=>navigate('/work')}  className='hover:scale-125 cursor-pointer w-full duration-500 hover:shadow-xl list-none inline-block px-5'><a className='text-white text-xl sm:px-3 xl:px-10'>Work</a></li>
                         <li onClick={()=>navigate('/others')}  className='hover:scale-125 cursor-pointer w-full duration-500 hover:shadow-xl list-none inline-block px-5'><a  className='text-white text-xl sm:px-3 xl:px-10'>Others</a></li>
                     </ul>

@@ -10,7 +10,7 @@ const Navi = () => {
       <div className = "flex items-center py-1.5 mobsm:px-[4%] sm:px-[10%] xl:px-40 bg-gradient-to-l from-transparent via-black to-transparent bg-opacity-75 shadow-xl  backdrop-blur-sm">
             <SelfLogo/>
             <ul className='flex-1 text-center sm:translate-x-10'>
-                <button onClick={()=>navigate('/home')} className='hover:scale-125 duration-500 hover:shadow-xl list-none inline-block px-3'><h1 className='text-white text-xl sm:px-3 xl:px-10'>Home</h1></button>
+                <button onClick={()=>navigate('/')} className='hover:scale-125 duration-500 hover:shadow-xl list-none inline-block px-3'><h1 className='text-white text-xl sm:px-3 xl:px-10'>Home</h1></button>
                 <button onClick={()=>navigate('/work')} className='hover:scale-125 duration-500 hover:shadow-xl list-none inline-block px-5'><h1 className='text-white text-xl sm:px-3 xl:px-10'>Work</h1></button>
                 <button onClick={()=>navigate('/others')} className='hover:scale-125 duration-500 hover:shadow-xl list-none inline-block px-5'><h1 className='text-white text-xl sm:px-3 xl:px-10'>Others</h1></button>
             </ul>

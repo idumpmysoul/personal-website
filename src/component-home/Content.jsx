@@ -40,7 +40,7 @@ function Content() {
               <h1 className='font-bold sm:text-left mobsm:text-center text-3xl mb-2'>SkillSet</h1>
               <p className='sm:text-left break-words mobsm:text-center'>
                 Adobe's Software - lvl.OnionCubs <br></br> MS Office - lvl.OnionCubs <br></br> C Programming - lvl.OnionCubs 
-                 <br></br> Procrasinating - lvl.MAX <br></br> Bad Habit - lvl.MAX
+                 <br></br> Procrasinating - lvl.MAX <br></br> Bad Habit - lvl.MAX <br></br> English - i learnt it from internet so its not very polite
               </p>
             </div>
           </div>

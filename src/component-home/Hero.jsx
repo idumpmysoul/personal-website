@@ -13,7 +13,8 @@ const Hero = () => {
           <h1 className='hover:text-teal-300 duration-500 text-white font-bold sm:text-6xl mobsm:text-3xl mt-0 mb-2'>I'm, Abed.</h1>
           a realist - a commoner - barely average
           <br></br> 
-          In process of learning to be a Human, a Student, and an Engineer.
+          In process of learning to be a Human, a Student, and an Engineer. <br></br>
+          Inspired by <a className='hover:text-pink-400 duration-300 font-bold' href='https://youtu.be/PFRGWuMPx4E?si=xbzcr2jMoALihmEz' target='_blank'>LOVE</a>
         </p>
       </div>
       <div className='relative h-20 w-[80%] mobsm:ml-0 sm:ml-0 xl:ml-[3.5rem] sm:-mt-[20rem] mobsm:-mt-[23rem]'>
