@@ -1,0 +1,12 @@
+@echo off
+echo Microsoft Windows [Version 10.0.19044.3324]
+echo (c) Microsoft Corporation. All rights reserved.
+echo.
+echo C:\Users\victim>ipconfig /all
+echo.
+echo Ethernet adapter Ethernet:
+echo    Physical Address. . . . . . . . . : 00-1A-2B-3C-4D-6F
+echo    IPv4 Address. . . . . . . . . . . : 10.0.2.25
+echo    Subnet Mask . . . . . . . . . . . : 255.255.255.0
+echo    Default Gateway . . . . . . . . . : 10.0.2.2
+pause
